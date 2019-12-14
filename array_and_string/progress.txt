@@ -5,3 +5,8 @@
 12/13/2019 - largest_number_at_least_twice.py
 12/13/2019 - plus_one.py and plus_one_method2.py
 12/13/2019 - spiral_matrix.py
+
+
+# 12/14/2019 - solved x problems
+# problem category: array and string 
+12/14/2019 - pascal_triangle.py
