@@ -1,1 +1,7 @@
-12/13/2019 - diagonal traverse
+# 12/13/2019 - solved 5 problems
+# problem category: array and string 
+12/13/2019 - diagonal_traverse.py
+12/13/2019 - find_pivot_index.py
+12/13/2019 - largest_number_at_least_twice.py
+12/13/2019 - plus_one.py and plus_one_method2.py
+12/13/2019 - spiral_matrix.py
