@@ -7,6 +7,10 @@
 12/13/2019 - spiral_matrix.py
 
 
-# 12/14/2019 - solved x problems
+# 12/14/2019 - solved 1 problem
 # problem category: array and string 
 12/14/2019 - pascal_triangle.py
+
+# 12/15/2019 - solved x problems
+# problem category: array and string 
+12/15/2019 - add_binary.py
