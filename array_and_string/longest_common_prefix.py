@@ -14,5 +14,5 @@ class Solution:
                 return strs[0][:res]
             else:
                 res += 1
-        return strs[0][:element_number]
+        return strs[0][:res] if res > 0 else ""
 
