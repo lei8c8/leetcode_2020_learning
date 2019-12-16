@@ -16,3 +16,5 @@
 12/15/2019 - add_binary.py
 12/15/2019 - strStr.py
 12/15/2019 - longest_common_prefix.py
+12/15/2019 - reverse string
+
