@@ -19,5 +19,6 @@
 12/15/2019 - reverse_string.py
 12/15/2019 - array_partition.py
 12/15/2019 - two_sum.py
+12/15/2019 - remove_element.py
 
 
