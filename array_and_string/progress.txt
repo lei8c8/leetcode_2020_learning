@@ -21,6 +21,7 @@
 12/15/2019 - two_sum.py
 12/15/2019 - remove_element.py
 12/15/2019 - max_consencutive_ones.py
+12/15/2019 - min_size_subarray.py
 
 
 
