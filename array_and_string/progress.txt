@@ -18,4 +18,6 @@
 12/15/2019 - longest_common_prefix.py
 12/15/2019 - reverse_string.py
 12/15/2019 - array_partition.py
+12/15/2019 - two_sum.py
+
 
