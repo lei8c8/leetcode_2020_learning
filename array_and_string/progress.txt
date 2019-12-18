@@ -28,5 +28,6 @@
 12/17/2019 - rorate_array.py
 12/17/2019 - reverse_words_in_string.py
 12/17/2019 - reverse_words_in_stringIII.py
+12/17/2019 - remove_duplicates.py
 
 
