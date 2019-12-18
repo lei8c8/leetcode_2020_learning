@@ -23,7 +23,7 @@
 12/15/2019 - max_consencutive_ones.py
 12/15/2019 - min_size_subarray.py
 
-# 12/17/2019 - solved x problems
+# 12/17/2019 - solved 6 problems
 # problem category: array and string 
 12/17/2019 - rorate_array.py
 12/17/2019 - reverse_words_in_string.py
@@ -32,4 +32,4 @@
 12/17/2019 - move_zeros.py
 12/17/2019 - pascal_triangle2.py
 
-
+All array string problems are done
