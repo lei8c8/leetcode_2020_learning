@@ -11,7 +11,7 @@
 # problem category: array and string 
 12/14/2019 - pascal_triangle.py
 
-# 12/15/2019 - solved x problems
+# 12/15/2019 - solved 9 problems
 # problem category: array and string 
 12/15/2019 - add_binary.py
 12/15/2019 - strStr.py
@@ -22,6 +22,9 @@
 12/15/2019 - remove_element.py
 12/15/2019 - max_consencutive_ones.py
 12/15/2019 - min_size_subarray.py
+
+# 12/17/2019 - solved x problems
+# problem category: array and string 
 
 
 
