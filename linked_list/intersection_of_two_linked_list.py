@@ -8,6 +8,8 @@ class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> ListNode:
         curA, curB = headA, headB
         cA, cB = 0, 0
+        if not headA or not headB:
+            return None 
         while True:
             if curA == curB:
                 return curA
