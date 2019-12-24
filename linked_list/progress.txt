@@ -1,4 +1,4 @@
-# 12/18/2019 - solved x problems
+# 12/18/2019 - solved 5 problems
 # problem category: linked list
 12/18/2019 - design_linked_list.py
 12/18/2019 - linked_list_cycle.py
