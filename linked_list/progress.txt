@@ -4,3 +4,6 @@
 12/18/2019 - linked_list_cycle.py
 12/18/2019 - linked_list_cycleII.py
 12/18/2019 - intersection_of_two_linked_list.py
+
+# 12/26/2019 - solved 5 problems
+# problem category: linked list
