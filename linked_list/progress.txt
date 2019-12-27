@@ -7,3 +7,4 @@
 
 # 12/26/2019 - solved 5 problems
 # problem category: linked list
+12/26/2019 - reverse_linked_list.py
