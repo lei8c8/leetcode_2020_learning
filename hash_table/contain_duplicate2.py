@@ -5,10 +5,9 @@ class Solution:
         for i, v in enumerate(nums):
             lookup[v].append(i)
         for i, v in enumerate(nums):
-            for x in lookup[v]:
-                if x == i:
-                    continue
-                if abs(x - i) <= k:
-                    return True 
+            if len(lookup[v]) > 1:
+                for x in lookup[v]:
+                    if 0 < abs(x - i) <= k:
+                        return True 
         return False
    
