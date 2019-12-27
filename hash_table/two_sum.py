@@ -5,5 +5,4 @@ class Solution:
             hashMap[v] = i
         for i, v in enumerate(nums):
             if (target - v) in hashMap and hashMap[target - v] != i:
-                return True 
-        return False 
+                return [i, hashMap[target - v]]
