@@ -10,3 +10,4 @@
 12/26/2019 - reverse_linked_list.py
 12/26/2019 - remove_linked_list_elements.py
 12/26/2019 - odd_even_linked_list.py
+12/26/2019 - palindrome_linked_list.py
