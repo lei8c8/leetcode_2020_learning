@@ -16,4 +16,6 @@
 12/27/2019 - group_anagrams.py
 12/27/2019 - group_shifted_strings.py
 12/27/2019 - valid_sodoku.py
+12/27/2019 - jewels_and_stones.py
+12/27/2019 - longest_substring.py
 
