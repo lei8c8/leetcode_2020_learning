@@ -39,12 +39,18 @@ class MyCircularQueue:
         """
         Get the front item from the queue.
         """
+        if self.isEmpty():
+            return -1
+        return self.items[self.head]
         
 
     def Rear(self) -> int:
         """
         Get the last item from the queue.
         """
+        if self.isEmpty():
+            return -1
+        return self.items[self.tail - 1]
         
 
     def isEmpty(self) -> bool:
