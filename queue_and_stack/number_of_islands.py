@@ -21,5 +21,4 @@ class Solution:
                 grid[d1][d2] = '0'
                 dirs = [(d1,d2+1),(d1,d2-1),(d1-1,d2),(d1+1,d2)]
                 for x1, y1 in dirs:
-                    if grid[x1][y1] == '1':
                         q.append((x1,y1))
