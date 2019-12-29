@@ -1,3 +1,4 @@
 # 12/28/2019 - solved x problems
 # problem category: queue and stack
 12/28/2019 - design_circular_queue.py
+12/28/2019 - moving_average.py
