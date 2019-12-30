@@ -6,6 +6,6 @@ class Solution:
             while stack and T[i] >= T[stack[-1]]:
                 stack.pop()
             if stack:
-                res[i] = stack[-1] - 1
+                res[i] = stack[-1] - i
             stack.append(i) 
         return res 
