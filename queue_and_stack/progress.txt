@@ -10,6 +10,7 @@
 12/29/2019 - open_the_lock.py
 12/29/2019 - min_stack.py
 12/29/2019 - valid_parentheses.py
+12/29/2019 - daily_temp.py
 
 
 
