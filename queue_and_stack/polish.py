@@ -1,3 +1,5 @@
+import operator
+
 class Solution:
     # @param {string[]} tokens
     # @return {integer}
