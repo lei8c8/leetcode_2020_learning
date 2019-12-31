@@ -5,7 +5,7 @@
 12/28/2019 - walls_and_gates.py
 12/28/2019 - number_of_islands.py
 
-# 12/29/2019 - solved x problems
+# 12/29/2019 - solved 5 problems
 # problem category: queue and stack
 12/29/2019 - open_the_lock.py
 12/29/2019 - min_stack.py
