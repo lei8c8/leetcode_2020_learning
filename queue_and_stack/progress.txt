@@ -15,6 +15,7 @@
 
 # 01/04/2020 - solved x problems
 # problem category: queue and stack
+01/04/2020 - number_of_islands_method2.py
 
 
 
