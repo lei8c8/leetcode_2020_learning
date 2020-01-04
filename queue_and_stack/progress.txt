@@ -18,6 +18,7 @@
 01/04/2020 - number_of_islands_method2.py
 01/04/2020 - clone_graph.py
 01/04/2020 - perfect_square.py
+01/04/2020 - decode_string.py
 
 
-difficult problem: target sum - not resolved.
+difficult problem: target sum - not resolve
