@@ -17,9 +17,7 @@
 # problem category: queue and stack
 01/04/2020 - number_of_islands_method2.py
 01/04/2020 - clone_graph.py
+01/04/2020 - perfect_square.py
 
 
-
-
-difficult problem: perfect square - not resolved.
 difficult problem: target sum - not resolved.
