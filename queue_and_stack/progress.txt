@@ -13,6 +13,9 @@
 12/29/2019 - daily_temp.py
 12/29/2019 - polish.py
 
+# 01/04/2020 - solved x problems
+# problem category: queue and stack
+
 
 
 
