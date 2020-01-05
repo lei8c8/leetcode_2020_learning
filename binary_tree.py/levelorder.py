@@ -16,9 +16,10 @@ class Solution:
             while level_length > 0:
                 node = queue.popleft()
                 level_vals.append(node.val)
+                level_length -= 1
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
             answer.append(level_vals)   
-        
+        return answer
