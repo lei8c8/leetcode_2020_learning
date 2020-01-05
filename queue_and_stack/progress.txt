@@ -22,5 +22,6 @@
 01/04/2020 - zero_one_matrix.py
 01/04/2020 - flood_fill.py
 01/04/2020 - key_and_room.py
+01/04/2020 - target_sum.py
 
-difficult problem: target sum - not resolve
+all clear

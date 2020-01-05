@@ -1,15 +1,12 @@
-class Solution:
-    def __init__(self):
-        self.count = 0
-    def findTargetSumWays(self, nums: List[int], S: int) -> int:
-        self.helper(nums, 0, 0, S)
-        return self.count
-
-    def helper(self, nums, i, total, S):
-        if i == len(nums):
-            if S == total:
-                self.count += 1
-        else:
-            self.helper(nums, i + 1, total + nums[i], S)
-            self.helper(nums, i + 1, total - nums[i], S)
-        
+class Solution(object):
+    def findTargetSumWays(self, nums, S):
+        if not nums:
+            return 0
+        dic = {nums[0]: 1, -nums[0]: 1} if nums[0] != 0 else {0: 2}
+        for i in range(1, len(nums)):
+            tdic = {}
+            for d in dic:
+                tdic[d + nums[i]] = tdic.get(d + nums[i], 0) + dic.get(d, 0)
+                tdic[d - nums[i]] = tdic.get(d - nums[i], 0) + dic.get(d, 0)
+            dic = tdic
+        return dic.get(S, 0)
