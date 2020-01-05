@@ -4,3 +4,5 @@
 01/04/2020 - inorder.py
 01/04/2020 - postorder.py
 01/04/2020 - levelorder.py
+01/04/2020 - max_depth.py
+01/04/2020 - symmetric.py
